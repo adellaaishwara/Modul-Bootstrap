@@ -1,6 +1,6 @@
-#       Modul-Bootstrap
+# Modul-Bootstrap
 
-#   - Pengertian Bootstrap -
+#  - Pengertian Bootstrap -
 # Bootstrap merupakan salah satu teknologi dalam pemubuatan web yang memudahkan dalam hal desain tampilan website. Bootstrap adalah library atau kumpulan beberapa style CSS yang sering digunakan pada pembuatan halaman web pada umumnya, sehingga designer lebih mudah dalam layouting web page karena hanya tinggal memanggil nama class-class yang telah disediakan
 
 # - Cara Penggunaan Bootstrap -
